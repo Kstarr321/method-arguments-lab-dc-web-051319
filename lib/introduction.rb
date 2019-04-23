@@ -1,3 +1,3 @@
-def name_code(prompt)
-  puts "Hello #{prompt}"
+def introduction(name)
+  puts "Hello #{name}"
 end
